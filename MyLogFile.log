@@ -1,0 +1,46 @@
+Jul 05, 2016 5:21:59 PM GithubAutomation.AppTest beforTest
+INFO: Log maintainance for GitAutomation
+Jul 05, 2016 5:21:59 PM GithubAutomation.AppTest beforTest
+INFO: This is BeforeTest : Credentials Takken as Input with reponame.
+Jul 05, 2016 5:21:59 PM GithubAutomation.AppTest beforTest
+WARNING: This is Warning : Be carefull Username and Password are case Sensitive
+Jul 05, 2016 5:22:08 PM GithubAutomation.AppTest testOne
+INFO: This is info : Login credentials filled in reqired field
+Jul 05, 2016 5:22:08 PM GithubAutomation.AppTest testOne
+INFO: This is info : Login done successfully
+Jul 05, 2016 5:22:09 PM GithubAutomation.AppTest testTwo
+INFO: This is info : Reached your dashboard
+Jul 05, 2016 5:22:12 PM GithubAutomation.AppTest testThree
+INFO: This is info : Ready for creating new repository
+Jul 05, 2016 5:22:12 PM GithubAutomation.AppTest testThree
+WARNING: This is warn : Repository name must be unique
+Jul 05, 2016 5:22:12 PM GithubAutomation.AppTest testThree
+INFO: This is info : Your repository is created
+Jul 05, 2016 5:22:21 PM GithubAutomation.AppTest testFour
+INFO: This is info : Direcrtory is selected
+Jul 05, 2016 5:22:21 PM GithubAutomation.AppTest testFour
+WARNING: This is warn : Do not select empty directory
+Jul 05, 2016 5:22:26 PM GithubAutomation.AppTest testFive
+INFO: This is info : Data written to shell script
+Jul 05, 2016 5:22:29 PM GithubAutomation.AppTest testFive
+WARNING: This is warn : You internet connection must be good
+Jul 05, 2016 5:22:30 PM GithubAutomation.AppTest testSix
+INFO: This is info : Commitment of message done successfully
+Jul 05, 2016 5:22:30 PM GithubAutomation.AppTest testSix
+WARNING: This is warn : Commit message must have atleast one character
+Jul 05, 2016 5:22:37 PM GithubAutomation.AppTest testSeven
+INFO: This is info : Updation in readme file is done sucessfully
+Jul 05, 2016 5:22:37 PM GithubAutomation.AppTest testSeven
+WARNING: This is warn : Updation text must not be empty
+Jul 05, 2016 5:22:42 PM GithubAutomation.AppTest testSeven
+INFO: This is info : Cloning done successwfully
+Jul 05, 2016 5:22:42 PM GithubAutomation.AppTest testSeven
+WARNING: This is warn : You internet might be slow
+Jul 05, 2016 5:22:44 PM GithubAutomation.AppTest testSeven
+INFO: This is info : Every file is clonned
+Jul 05, 2016 5:22:44 PM GithubAutomation.AppTest testSeven
+WARNING: This is warn : Your file must not be too large
+Jul 05, 2016 5:22:44 PM GithubAutomation.AppTest testEight
+INFO: This is info : Updation text given by you matches Updated text og ReadMe.txt file
+Jul 05, 2016 5:22:44 PM GithubAutomation.AppTest testEight
+WARNING: This is warn : ReadMe may not be present

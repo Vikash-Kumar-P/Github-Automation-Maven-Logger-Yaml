@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45575" started-at="2016-07-05T11:51:59Z" finished-at="2016-07-05T11:52:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45575" started-at="2016-07-05T11:51:59Z" finished-at="2016-07-05T11:52:44Z">
+      <class name="GithubAutomation.AppTest">
+        <test-method status="PASS" signature="beforTest()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="beforTest" is-config="true" duration-ms="59" started-at="2016-07-05T17:21:59Z" finished-at="2016-07-05T17:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testOne" duration-ms="9669" started-at="2016-07-05T17:21:59Z" finished-at="2016-07-05T17:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testTwo" duration-ms="1454" started-at="2016-07-05T17:22:08Z" depends-on-methods="GithubAutomation.AppTest.testOne" finished-at="2016-07-05T17:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testThree" duration-ms="2606" started-at="2016-07-05T17:22:10Z" depends-on-methods="GithubAutomation.AppTest.testTwo" finished-at="2016-07-05T17:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testFour" duration-ms="8334" started-at="2016-07-05T17:22:12Z" depends-on-methods="GithubAutomation.AppTest.testThree" finished-at="2016-07-05T17:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method status="PASS" signature="testFive()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testFive" duration-ms="8452" started-at="2016-07-05T17:22:21Z" depends-on-methods="GithubAutomation.AppTest.testFour" finished-at="2016-07-05T17:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method status="PASS" signature="testSix()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testSix" duration-ms="1238" started-at="2016-07-05T17:22:29Z" depends-on-methods="GithubAutomation.AppTest.testFive" finished-at="2016-07-05T17:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSix -->
+        <test-method status="PASS" signature="testSeven()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testSeven" duration-ms="13732" started-at="2016-07-05T17:22:30Z" depends-on-methods="GithubAutomation.AppTest.testSix" finished-at="2016-07-05T17:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeven -->
+        <test-method status="PASS" signature="testEight()[pri:0, instance:GithubAutomation.AppTest@55f3ddb1]" name="testEight" duration-ms="5" started-at="2016-07-05T17:22:44Z" depends-on-methods="GithubAutomation.AppTest.testSeven" finished-at="2016-07-05T17:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEight -->
+      </class> <!-- GithubAutomation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
